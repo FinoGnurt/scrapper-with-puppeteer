@@ -1,0 +1,630 @@
+[
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/s/ss-s24-ultra-xam-222.png",
+    "name": "Samsung Galaxy S24 Ultra 12GB 256GB",
+    "inches": "6.8 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "27.990.000đ",
+    "originalPrice": "33.990.000đ",
+    "discount": "Giảm 18%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-fold-6-xanh_5_.png",
+    "name": "Samsung Galaxy Z Fold6 12GB 256GB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "41.990.000đ",
+    "originalPrice": "43.990.000đ",
+    "discount": "Giảm 5%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23-ulatra_2_.png",
+    "name": "Samsung Galaxy S23 Ultra 12GB 512GB",
+    "inches": "6.8 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "24.990.000đ",
+    "originalPrice": "36.990.000đ",
+    "discount": "Giảm 32%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-m55.png",
+    "name": "Samsung Galaxy M55 (12GB 256GB)",
+    "inches": "6.7 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "9.990.000đ",
+    "originalPrice": "12.690.000đ",
+    "discount": "Giảm 21%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-6-xanh-duong-6_2.png",
+    "name": "Samsung Galaxy Z Flip6 12GB 256GB",
+    "inches": "6.7 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "26.990.000đ",
+    "originalPrice": "28.990.000đ",
+    "discount": "Giảm 7%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s24-fe_3__4.png",
+    "name": "Samsung Galaxy S24 FE 5G 8GB 128GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "16.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/galaxy-a15-xanh-01.png",
+    "name": "Samsung Galaxy A15 LTE 8GB 128GB",
+    "inches": "6.5 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "4.250.000đ",
+    "originalPrice": "4.990.000đ",
+    "discount": "Giảm 15%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23_1.png",
+    "name": "Samsung Galaxy S23 8GB 128GB - Chỉ có tại CellphoneS",
+    "inches": "6.1 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "13.990.000đ",
+    "originalPrice": "22.990.000đ",
+    "discount": "Giảm 39%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-z-lip5_1__1.png",
+    "name": "Samsung Galaxy Z Flip5 512GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "15.490.000đ",
+    "originalPrice": "29.990.000đ",
+    "discount": "Giảm 48%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/m/sm-a556_galaxy_a55_awesome_lilac_ui.png",
+    "name": "Samsung Galaxy A55 5G 8GB 128GB",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "9.690.000đ",
+    "originalPrice": "9.990.000đ",
+    "discount": "Giảm 3%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-z-lip5_3_.png",
+    "name": "Samsung Galaxy Z Flip5 256GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "13.490.000đ",
+    "originalPrice": "25.990.000đ",
+    "discount": "Giảm 48%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a35_8_.png",
+    "name": "Samsung Galaxy A35 5G 8GB 128GB",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "7.990.000đ",
+    "originalPrice": "8.290.000đ",
+    "discount": "Giảm 4%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/galaxy-a25-xanh-vang.png",
+    "name": "Samsung Galaxy A25 5G 6GB 128GB",
+    "inches": "6.5 inches",
+    "gb": "6 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "5.990.000đ",
+    "originalPrice": "6.590.000đ",
+    "discount": "Giảm 9%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s24-plus.png",
+    "name": "Samsung Galaxy S24 Plus 12GB 256GB",
+    "inches": "6.7 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "21.990.000đ",
+    "originalPrice": "26.990.000đ",
+    "discount": "Giảm 19%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/s/ss-s24-ultra-xam-222_1.png",
+    "name": "Samsung Galaxy S24 Ultra 12GB 512GB",
+    "inches": "6.8 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "31.490.000đ",
+    "originalPrice": "37.490.000đ",
+    "discount": "Giảm 16%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23-fe.png",
+    "name": "Samsung Galaxy S23 FE 5G 8GB 128GB",
+    "inches": "6.4 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "10.890.000đ",
+    "originalPrice": "14.890.000đ",
+    "discount": "Giảm 27%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a05.png",
+    "name": "Samsung Galaxy A05 4GB 128GB",
+    "inches": "6.7 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "2.790.000đ",
+    "originalPrice": "3.090.000đ",
+    "discount": "Giảm 10%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a05sl.png",
+    "name": "Samsung Galaxy A05S 4GB 128GB",
+    "inches": "6.7 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "3.590.000đ",
+    "originalPrice": "3.990.000đ",
+    "discount": "Giảm 10%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-a06_1_.png",
+    "name": "Samsung Galaxy A06 4GB 128GB",
+    "inches": "6.7 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "3.490.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/2/s24-p-thumb.png",
+    "name": "Samsung Galaxy S24 8GB 256GB",
+    "inches": "6.2 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "17.990.000đ",
+    "originalPrice": "22.990.000đ",
+    "discount": "Giảm 22%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23-fe_1.png",
+    "name": "Samsung Galaxy S23 FE 8GB 256GB",
+    "inches": "6.4 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "12.590.000đ",
+    "originalPrice": "16.890.000đ",
+    "discount": "Giảm 25%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s24-plus_1.png",
+    "name": "Samsung Galaxy S24 Plus 12GB 512GB",
+    "inches": "6.7 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "25.490.000đ",
+    "originalPrice": "30.490.000đ",
+    "discount": "Giảm 16%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-6-xanh-duong-6_2_1.png",
+    "name": "Samsung Galaxy Z Flip6 12GB 512GB",
+    "inches": "6.7 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "30.990.000đ",
+    "originalPrice": "32.990.000đ",
+    "discount": "Giảm 6%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s22-ultra-12gb-256gb.png",
+    "name": "Samsung Galaxy S22 Ultra (12GB - 256GB) đã kích hoạt online - Chỉ có tại CellphoneS",
+    "inches": "6.8 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "18.990.000đ",
+    "originalPrice": "33.990.000đ",
+    "discount": "Giảm 44%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/2/s24-thumb.png",
+    "name": "Samsung Galaxy S24 8GB 512GB",
+    "inches": "6.2 inches",
+    "gb": "8 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "21.490.000đ",
+    "originalPrice": "26.490.000đ",
+    "discount": "Giảm 19%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/m/sm-g990_s21fe_backfront_lv.png",
+    "name": "Samsung Galaxy S21 FE 8GB 128GB",
+    "inches": "6.4 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "10.500.000đ",
+    "originalPrice": "16.990.000đ",
+    "discount": "Giảm 38%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-m14.png",
+    "name": "Samsung Galaxy M14 5G 4GB 128GB",
+    "inches": "6.6 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "4.690.000đ",
+    "originalPrice": "5.290.000đ",
+    "discount": "Giảm 11%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/m/image_1170_3.png",
+    "name": "Samsung Galaxy Z Fold6 12GB 1TB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "1 TB",
+    "priceAfterDiscount": "52.990.000đ",
+    "originalPrice": "54.990.000đ",
+    "discount": "Giảm 4%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/m/image_1170_1_1.png",
+    "name": "Samsung Galaxy Z Fold6 12GB 512GB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "45.990.000đ",
+    "originalPrice": "47.990.000đ",
+    "discount": "Giảm 4%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/2/0/2026427-removebg-preview.png",
+    "name": "Samsung Galaxy Note 10 Lite",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "11.490.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23-ulatra_2__1.png",
+    "name": "Samsung Galaxy S23 Ultra 256GB",
+    "inches": "6.8 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "22.990.000đ",
+    "originalPrice": "31.990.000đ",
+    "discount": "Giảm 28%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s22-ultra_1.png",
+    "name": "Samsung Galaxy S22 Ultra (8GB - 128GB)",
+    "inches": "6.8 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "30.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/c/3/c3845789-dda7-44d7-a9eb-bb8e775c9ffb.png",
+    "name": "Samsung Galaxy M34 5G 8GB 128GB",
+    "inches": "6.5 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "5.890.000đ",
+    "originalPrice": "7.990.000đ",
+    "discount": "Giảm 26%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-a16-5g_2_.png",
+    "name": "Samsung Galaxy A16 5G 8GB 128GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "6.090.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-5-line-friends-4-cps.jpg",
+    "name": "Samsung Galaxy Z Flip5 512GB Line Friends - Chỉ có tại CellphoneS",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "15.490.000đ",
+    "originalPrice": "29.990.000đ",
+    "discount": "Giảm 48%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a54.png",
+    "name": "Samsung Galaxy A54 5G 8GB 128GB",
+    "inches": "6.4 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "7.390.000đ",
+    "originalPrice": "10.490.000đ",
+    "discount": "Giảm 30%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a34.png",
+    "name": "Samsung Galaxy A34 5G 8GB 128GB",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "7.090.000đ",
+    "originalPrice": "8.490.000đ",
+    "discount": "Giảm 16%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-note-20-ultra-5g.png",
+    "name": "Samsung Galaxy Note 20 Ultra 5G 256GB",
+    "inches": "6.9 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "32.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-z-fold5_3__1.png",
+    "name": "Samsung Galaxy Z Fold5 12GB 512GB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "29.990.000đ",
+    "originalPrice": "44.990.000đ",
+    "discount": "Giảm 33%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-4.png",
+    "name": "Samsung Galaxy Z Flip4 128GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "23.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-fold-4.png",
+    "name": "Samsung Galaxy Z Fold4 256GB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "22.490.000đ",
+    "originalPrice": "40.990.000đ",
+    "discount": "Giảm 45%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-20-fe_4_.jpg",
+    "name": "Samsung Galaxy S20 FE 256GB",
+    "inches": "6.5 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "7.200.000đ",
+    "originalPrice": "12.490.000đ",
+    "discount": "Giảm 42%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-z-fold5_2_.png",
+    "name": "Samsung Galaxy Z Fold5 12GB 256GB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "27.990.000đ",
+    "originalPrice": "40.990.000đ",
+    "discount": "Giảm 32%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a33-5g-500x500.jpg",
+    "name": "Samsung Galaxy A33 (5G)",
+    "inches": "6.4 inches",
+    "gb": "6 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "7.290.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/galaxy_a13.jpg",
+    "name": "Samsung Galaxy A13 (4G)",
+    "inches": "6.6 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "4.190.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/8/0/800x800_flip_3_cream.png",
+    "name": "Samsung Galaxy Z Flip3 5G 128GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "24.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/1/5/15_20.jpg",
+    "name": "Samsung Galaxy A23 5G",
+    "inches": "6.6 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "4.150.000đ",
+    "originalPrice": "5.990.000đ",
+    "discount": "Giảm 31%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/s/ss-s24-ultra-xam-222_2.png",
+    "name": "Samsung Galaxy S24 Ultra 12GB 1TB",
+    "inches": "6.8 inches",
+    "gb": "12 GB",
+    "memory": "1 TB",
+    "priceAfterDiscount": "33.490.000đ",
+    "originalPrice": "44.490.000đ",
+    "discount": "Giảm 25%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/2/s22_4_1.jpg",
+    "name": "Samsung Galaxy S22 Plus (8GB + 128GB)",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "16.990.000đ",
+    "originalPrice": "25.990.000đ",
+    "discount": "Giảm 35%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-fold-3.png",
+    "name": "Samsung Galaxy Z Fold3 5G 256GB",
+    "inches": "7.6 inches",
+    "gb": "12 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "41.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/l/a/laptop_asus_tuf_gaming_fx506hf-hn017w_2_.png",
+    "name": "Samsung Galaxy M15 5G",
+    "inches": "6.5 inches",
+    "gb": "6 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "5.890.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s21-plus-3.jpg",
+    "name": "Samsung Galaxy S21 Plus 5G",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "25.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-z-flip-4_1.png",
+    "name": "Samsung Galaxy Z Flip4 256GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "25.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a54-8gb-256gb.png",
+    "name": "Samsung Galaxy A54 8GB 256GB",
+    "inches": "6.4 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "7.890.000đ",
+    "originalPrice": "11.490.000đ",
+    "discount": "Giảm 31%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-a14-4g.png",
+    "name": "Samsung Galaxy A14 4G",
+    "inches": "6.6 inches",
+    "gb": "4 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "2.990.000đ",
+    "originalPrice": "4.490.000đ",
+    "discount": "Giảm 33%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/m/sm-s908_galaxys22ultra_front_burgundy_211119_3.jpg",
+    "name": "Samsung Galaxy S22 Ultra (12GB - 512GB)",
+    "inches": "6.8 inches",
+    "gb": "12 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "36.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-s24-fe_3__5.png",
+    "name": "Samsung Galaxy S24FE 5G 8GB 256GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/m/sm-s901_galaxys22_front_pinkgold_211122.jpg",
+    "name": "Samsung Galaxy S22 (8GB - 128GB)",
+    "inches": "6.1 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "21.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-a06_1__2.png",
+    "name": "Samsung Galaxy A06 5G 8GB 128GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s21-plus-3_3.jpg",
+    "name": "Samsung Galaxy S21 Plus 5G 256GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "28.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-a16_7__2.png",
+    "name": "Samsung Galaxy A16 5G 8GB 256GB",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s22-plus-256gb.png",
+    "name": "Samsung Galaxy S22 Plus (8GB - 256GB)",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "16.990.000đ",
+    "originalPrice": "27.490.000đ",
+    "discount": "Giảm 38%"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23_.png",
+    "name": "Samsung galaxy S23 Plus 8GB 512GB",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "512 GB",
+    "priceAfterDiscount": "29.990.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/a/galaxy-a15-xanh-01_3.png",
+    "name": "Samsung Galaxy A15 5G",
+    "inches": "6.5 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-a16_7__1.png",
+    "name": "Samsung Galaxy A16 LTE",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-c55_1_.png",
+    "name": "Samsung Galaxy C55",
+    "inches": "6.7 inches",
+    "gb": "8 GB",
+    "memory": "128 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/d/i/dien-thoai-samsung-galaxy-m35.png",
+    "name": "Samsung Galaxy M35 5G (8GB 256GB)",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "256 MB",
+    "priceAfterDiscount": "8.490.000đ"
+  },
+  {
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/m/sm-a346_galaxy_a34_5g_awesome_silver_front_3.png",
+    "name": "Samsung Galaxy A34 8GB 256GB-Bạc",
+    "inches": "6.6 inches",
+    "gb": "8 GB",
+    "memory": "256 GB",
+    "priceAfterDiscount": "Giá Liên Hệ"
+  }
+]
